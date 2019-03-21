@@ -1,1 +1,4 @@
 # cf-lambda
+
+![alt text](https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiRnAzcWwzMVU2V0dsaENLaThhSFE1ZCt5TzB1OFBlSlROWEhZOEZxcytPcmRYZnZDVXY4NEhtTXE3T0kxbnIvdjNuZ2VrZVMxMCtuTVkwR1E4VktxRjhjPSIsIml2UGFyYW1ldGVyU3BlYyI6InZlejRJTjRmdXB3d0JCUjMiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master "Production Build Status")
+
